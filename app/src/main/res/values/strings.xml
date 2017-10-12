@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">ResepMasakanSemarang</string>
+    <string name="bahan">Bahan - Bumbu : </string>
+    <string name="cara">Cara Membuat : </string>
+    <string-array name="judul_resep">
+        <item>Nasi Goreng Babat Semarang</item>
+        <item>Soto Ayam Semarang</item>
+        <item>Mie Kopyok Semarang</item>
+        <item>Lumpia Semarang</item>
+        <item>Mangut Kepala Manyung Semarang</item>
+        <item>Babat Gongso Semarang</item>
+        <item>Kue Leker Semarang</item>
+        <item>Gurami Telur Asin</item>
+    </string-array>
+    <string-array name="keterangan_resep">
+        <item>Nasi Goreng khas Semarang dengan potongan babat dengan rasa yang khas.
+        Cocok untuk penikmat nasi goreng dengan jeroan sapi yang sedap.</item>
+        <item>Soto dengan daging ayam dan kuah yang khas Kota Semarang.
+        Sangat pas dinikmati untuk sarapan dan cuaca dingin.</item>
+        <item>Mie dengan lontong dan kuah bawang dinikmati dengan krupuk diatasnya.
+        Mie ini nikmat disantap saat mie hangat</item>
+        <item>Rebung yang dibalut dengan kulit tepung beras dan diberi bumbu yang lezat.
+        Lumpia dapat dinikmati dengan digoreng terlebih dahulu atau langsung disantap</item>
+        <item>Panggang kepala manyung dengan kuah santan dengan rasa yang gurih.
+        Lebih nikmat dengan tambahan cabai agar sensasi pedas yang mantap.</item>
+        <item>Babat yang ditumis dengan bumbu khas Semarang yang gurih nan lezat.
+        Cocok disantap dengan nasi putih hangat.</item>
+        <item>Kue krispi dan tipis dengan topping yang bermacam-macam menjadi ciri khas
+        jajanan Semarang. Mulai dari anak-anak sampai orang tua suka dengan kue ini</item>
+        <item>Gurami yang digoreng dengan tepung dengan perpaduan telur asin.
+        Rasa yang khas telur asin terdapat pada setiap gigitan daging ikannya.</item>
+    </string-array>
+    <string-array name="detail_resep">
+        <item>1 piring nasi agak pera/ mawur\n
+            6 potong iso dan babat bacem, potong2\n
+            7 cabe rawit merah/ sesuai selera, haluskan\n
+            2 bawang putih, haluskan\n
+            4 bawang merah,rajang kasar
+            1/3 bgks terasi abc yg uda dibakar\n
+            kaldu sapi/ garam\n
+            2 sdm kecap manis (sesuai selera)\n
+            1/4 sdt lada bubuk\n
+            bawang goreng\n
+            timun\n
+            sesuai selera kerupuk\n</item>
+        <item>1 1/2 liter air\n
+            500 gram ayam\n
+            3 sdm minyak goreng\n
+            2-3 lembar Daun jeruk\n
+            2 lembar daun salam\n
+            1 batang serai (memarkan)\n
+            2 batang daun bawang (iris tipis)\n
+            Bumbu (haluskan)\n
+            2 sdt garam\n
+            1 sdt ketumbar\n
+            4 butir kemiri\n
+            1/4 lada/merica\n
+            2 cm kunyit\n
+            1 cm jahe\n
+            5 butir bawang putih\n
+            1/2 sdt gula\n
+            4 butir bawang merah (optional, jika tidak mau pakai tidak apa)\n</item>
+        <item>mie telur kemasan kecil exmp : mie burung dara\n
+            250 grm touge\n
+            10 buah lontong\n
+            10 tahu goreng /tahu pong\n
+            1 ons bawang putih\n
+            1.5 liter air\n
+            sledri\n
+            bawang merah goreng\n
+            30 grm gula merah\n
+            penyedap rasa\n
+            krupuk gendar\n
+            kecap\n
+            cabe rawit merah 10 rebus / sesuai selera\n</item>
+        <item>1/4 kg rebung\n
+            2 potong ayam yg sudah diungkep (pakai ayam mentah lebih endes)\n
+            1 batang Daun bawang\n
+            1 butir telur kocok lepas\n
+            Bumbu\n
+            3 siung bawang merah\n
+            3 siung bawang putih\n
+            secukupnya Saus tiram, garam, penyedap\n</item>
+        <item>1 kepala manyung\n
+            1 tempe 1rban (optional)\n
+            bumbu\n
+            20 rawit setan\n
+            5 bj cabe merah\n
+            3 bawang merah\n
+            1 bawang putih\n
+            1 cm lenkuas geprek\n
+            1/2 cm kunyit geprek\n
+            2 lb daun salam\n
+            1 sereh geprek (optional)\n
+            secukupnya santan\n
+            gula garam micin secukupnya (optional)\n</item>
+        <item>200 gr babat\n
+            Bumbu rebusan\n
+            1 sdm garam\n
+            2 lembar daun salam\n
+            potongan jeruk nipis\n
+            Bumbu halus\n
+            2 bawang merah\n
+            2 bawang putih\n
+            2 cabai merah besar\n
+            4 cabai rawit\n
+            4 butir kemiri\n
+            Bumbu rajang\n
+            2 cabai merah besar\n
+            Bumbu tambahan\n
+            kecap, gula, garam\n</item>
+        <item>Bahan yang diperlukan untuk membuat Kue Leker\n
+            •   tepung terigu sebanyak 200 gram\n
+            •   gula pasir 2 sendok makan saja\n
+            •   garam 1 sendok teh saja\n
+            •   telur 2 butir\n
+            •   Vanili bubuk secukupnya\n
+            •   Air secukupnya\n
+
+            Bahan Isi Kue Leker\n
+            •   Gula pasir\n
+            •   Irisan bulat tipis pisang raja\n
+            •   Meises coklat\n
+            •   Susu kental manis coklat\n</item>
+        <item>150 gram fillet gurame\n
+            3 sdm tepung tapioka\n
+            1 butir telur kocok\n
+            secukupnya lada garam\n
+            minyak untuk menggoreng\n
+            1 sdm butter\n
+            2 siung bawang putih\n
+            2 kuning telur asin matang\n
+            50 ml susu cair\n
+            1 lembar daun jeruk\n</item>
+    </string-array>
+    <string-array name="cara_resep">
+        <item>1. Panaskan minyak tumis bawang merah smp layu dan masukkan cabe+ bwg putih uleg. Masukkan jg terasi. Tumis smp harum dan matang/tanak\n
+2. Kecilkan api, masuk babat dan tumis bentar (krn babat,iso uda mateng jd ga perlu lama2). Masuk jg nasi, bumbui dgn kaldu bubuk, lada, kecap manis, koreksi rasa.
+Gedein lagi api dan aduk2 smp tanak. Matikan api dan pindahkan ke piring saji.\n
+3. Siap disajikan dgn taburan bawang goreng, timun dan kerupuk.\n</item>
+        <item>1. Rebus ayam di dalam 2 liter air sampai empuk dan benar – benar matang. Angkat ayam dan sisihkan kaldu. Suwir – suwir ayam lalu sisihkan.\n
+2. Tumis bumbu – bumbu yang dihaluskan di dalam minyak panas bersama daun jeruk, daun salam dan serai. Masak sampai layu dan beraroma harum.\n
+3. Masukan tumisan bumbu ke dalam kuah, dilanjutkan dengan memasukkan irisan daun bawang. Didihkan kembali dengan menggunakan api kecil, lalu siapkan.\n
+4. Cara Menyajikan : Sajikan sesuai selera kamu! Nasi boleh dicampur dalam soto atau dipisahkan.\n</item>
+        <item>1. Rebus mie sisihkan Touge cukup di siram air panas / di rebus sebentar aja angkat sisihkan Tahu potong dadu sisihkan Lontong potong sesuai selera.\n
+2. Rebus air 1.5 l sampe mendididh Sambil nunggu air sampe mendidih ulek bumbu bawang putih,cabe,gula jawa dan garam setelah halus masukan ke dalam air mendidih tadi biarkan kuarang lebih 2 menit cek rasa, setelah itu kompor matikan.\n
+3. Susun bahan bahn tadi di piring, kemudian siramkan bumbu kasih kecap dan jgn lupa krupuknya.\n</item>
+        <item>1. Potong2 rebung menjadi kecil, cuci dan tiriskan. Panaskan air dalam panci. Rebus rebung didalam air yg mendidih kurang lebih 30 menit.\n
+2. Rajang halus bawang merah, bawang putih, daun bawang dan potong2 ayam.\n
+3. Setelah rebung empuk angkat dan tiriskan. Panaskan minyak diwajan tumis bumbu dan daun bawang sampai harum.\n
+4. Setelah harum masukkan ayam tumis hingga matang, setelah itu masukkan rebung yg telah direbus aduk2 sebentar lalu masukkan telur yg sudah dikocok aduk2 lagi,
+   masukkan saus tiram, garam dan penyedap secukupnya.\n
+5. Tes rasa dan angkat. Masukkan isian tadi kedalam kulit lumpia bungkus seperti amplop dan beri sedikit telur putih mentah untuk lem agar si kulit lengket.
+   Lakukan berulang jadi deh tinggal digoreng sampai kecoklatan. Nikmat juga pakai bumbu pecel.\n</item>
+        <item>1. Iris bahan bumbu.\n
+2. Tumis bahan bumbu sampai layu.\n
+3. Masukkan potongan tempe, kepala manyung dan santan.\n
+4. Masak hingga mendidih. jangan lupa cek rasa. sajikan. lebih enak ditambah potongan terong dan petai.\n</item>
+        <item>1. Bersihkan babat dengan air mengalir, bila perlu sikat agar kotoran hilang.\n
+2. Rebus babat dengan panci presto 20 menit, masukkan daun salam, garam, dan jeruk nipis.\n
+3. Potong2 babat.\n
+4. Tumis bumbu halus hingga wangi, minyaknya agk banyak biar bumbu gk langu.\n
+5. Masukkan babat, rajangan cabai merah.\n
+6. Tambahkan 100ml air.\n
+7. Bumbui dengan garam, gula, dan kecap.\n
+8. Masak hingga meresap dan bumbu sedikit menyusut.\n</item>
+        <item>1. Pertama – tama, ayak tepung terigu pada wadah yang cukup besar.\n
+2. Langkah kedua, kocok telur ayam sampai mengembang lalu tambahkan ke dalam tepung terigu yang telah diayak.\n
+3. Langkah selanjutnya, masukkan garam, vanili, beserta air secukupnya ke dalam adonan lalu aduk sampai semua komponen tercampur rata.\n
+4. Langkah keempat, diamkan adonan selama kurang lebih 20 menit.\n
+5. Kemudian, siapkanlah wajan yang berbentuk pipih, seperti Teflon, lalu panaskan dengan api kecil saja.
+   Jangan lupa lumuri permukaannya dengan mentega agar tidak lengket.
+   ambil adonan leker sebanyak 1 sendok sayur lalu tuangkan ke atas wajan pipih.\n
+6. Buatlah seperti dadar tipis, tunggu dan terus masak hingga adonan agak mengering atau crispy.\n
+7. Langkah berikutnya adalah masukkan semua bahan isi seperti yang tertera di atas di salah satu sisi kulit leker,
+   lalu lipat kulit leker sehingga isian leker tertutup dan balikkan agar leker matang merata.
+   terakhir, setelah matang segera angkat leker dan pindahkan kepiring saji sebelum gosong. Kue leker yang renyah dan enak pun siap untuk disajikan.\n</item>
+        <item>1. Aduk rata tepung tapioka lada garam. Balur ikan dengan tepung kering - telur - tepung kering. Goreng hingga golden crispy.\n
+2. Haluskan kuning telur asin dengan susu.\n
+3. Potong bawang putih kecil2, tumis dengan butter. Kemudian masukkan campuran susu dan telur asin. Aduk2 sebentar masukkan fillet ikan. Masukkan daun jeruk utuh.\n
+4. Sajikaan!!!\n</item>
+    </string-array>
+</resources>
